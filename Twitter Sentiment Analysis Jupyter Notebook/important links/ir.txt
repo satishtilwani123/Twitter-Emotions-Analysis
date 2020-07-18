@@ -1,0 +1,3 @@
+https://www.datacamp.com/community/tutorials/text-analytics-beginners-nltk  //project
+
+https://stackabuse.com/text-classification-with-python-and-scikit-learn/ //assignment
